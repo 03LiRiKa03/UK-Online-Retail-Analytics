@@ -1,1 +1,6 @@
 # UK Online Retail Analytics
+
+## **License**
+This dataset is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+CSV file
